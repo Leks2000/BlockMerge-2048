@@ -12,4 +12,4 @@ how to play:
 - node.js command promt
 - Open node.js
 - Select a path to Build
-- then write http-server and ope (http://localhost:8080/)
+- then write http-server and open (http://localhost:8080/)

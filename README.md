@@ -4,7 +4,7 @@
 
 - **Topics**: UI, Grids, Animation
 - **Version**: Unity 2022.3.8f1 (LTS)
-- [**Download**](https://github.com/Leks2000/BlockMerge-2048/releases/download/Release/Build.zip)
+- [**Download**](https://github.com/Leks2000/BlockMerge-2048/releases/download/Release/Build.zip) or open this source [**BlockMerge 2048**](https://yandex.ru/games/app/303067)
 
 how to play:
 

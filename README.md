@@ -13,3 +13,6 @@ how to play:
 - Open node.js
 - Select a path to Build
 - then write http-server and open (http://localhost:8080/)
+
+Or Open source:
+https://yandex.ru/games/app/303067?lang=ru
